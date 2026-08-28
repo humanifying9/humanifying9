@@ -12,7 +12,6 @@ Robotics Enthusiast building the interface between humans and machines — hardw
 | [**Hexapod Robot**](https://github.com/humanifying9/hexapod-sim) | Autonomous 6-legged robot: 18-servo tripod gait, inverse kinematics, Gazebo simulation, camera-based object detection, and a voice I/O pipeline | ROS2 (Jazzy), Gazebo, Python, OpenCV |
 | [**Hexapod Firmware**](https://github.com/humanifying9/hexapod-esp) | ESP32 firmware driving the hexapod's 18 servos over PCA9685 PWM drivers, with a JSON serial command protocol | C++, PlatformIO |
 | [**Outreach Agent**](https://github.com/humanifying9/outreach_agent) | Multi-agent tool that researches organizations and drafts personalized outreach emails from a resume/CV | Python |
-| [**Electric House**](https://github.com/humanifying9/ElectricHouse2026) | Wired-up model house with a working elevator, remote-controlled lighting, and a mini arcade display | C++, ESP32 |
 
 **Not yet on GitHub, but worth knowing about:**
 - **Firefighter Tool Carrier** — designed and prototyped during a research program at UT Austin; pitched to the local fire department (CAD in Fusion 360, circuits in KiCad)
