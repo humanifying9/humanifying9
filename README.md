@@ -1,15 +1,9 @@
 # Tia Parekh
 
-Robotics Captain building the interface between humans and machines — hardware, ROS2, and computer vision.
+Robotics Enthusiast building the interface between humans and machines — hardware, ROS2, and computer vision.
 
 [LinkedIn](https://linkedin.com/in/tia-parekh-909) · [tiaparekh9@gmail.com](mailto:tiaparekh9@gmail.com)
 
-## About
-
-- Robotics Captain, **Team 7419 Tech Support** — led the build of a 75cm × 55kg competition robot and managed a 100-person team across build, wiring, and fabrication
-- Robotics & STEM mentor, running weekly workshops on design, tooling, and testing
-- Freelance 3D CAD/CAM for other robotics teams — FEA-tested Fusion 360 designs delivered as GCode/3MF/DXF for CNC, 3D printing, and laser cutting
-- 4.0 GPA — AP Calculus BC, AP Physics, Materials Science, Advanced Engineering
 
 ## Featured Projects
 
