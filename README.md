@@ -1,3 +1,5 @@
+<img src="circuit-banner.svg" alt="" width="100%" />
+
 # Tia Parekh
 
 Robotics Enthusiast building the interface between humans and machines — hardware, ROS2, and computer vision.
