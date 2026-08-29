@@ -2,7 +2,7 @@
 
 <img src="tagline-panel.svg" alt="i build cool stuff. CAD, circuits, and code for real robots" width="100%" />
 
-[LinkedIn](https://linkedin.com/in/tia-parekh-909) · [tiaparekh9@gmail.com](mailto:tiaparekh9@gmail.com)
+<br><br>
 
 <img src="header-projects.svg" alt="Featured Projects" width="100%" />
 <br>
@@ -51,6 +51,8 @@ CNN trained on 500+ images to sort produce at 88% accuracy — 2nd place, Alamed
 
 Also: FTC competition robot code (private repos).
 
+<br><br>
+
 <img src="header-skills.svg" alt="Skills" width="100%" />
 
 **CAD & Manufacturing**
@@ -89,8 +91,17 @@ Also: FTC competition robot code (private repos).
 </tr>
 </table>
 
-*Also: Onshape, GCode, VS Code, Replit, laser cutting, CNC, soldering — no icon set covers everything.*
+
+
+*Also: Onshape, GCode, VS Code, Replit, laser cutting, CNC, soldering*
+
+<br><br>
 
 <img src="header-currently.svg" alt="Currently" width="100%" />
 
 Building out the hexapod's tripod gait in simulation, bridging ESP32 servo control over serial, and starting on a reinforcement-learning locomotion policy.
+
+<br><br>
+
+[LinkedIn](https://linkedin.com/in/tia-parekh-909) · [tiaparekh9@gmail.com](mailto:tiaparekh9@gmail.com)
+
