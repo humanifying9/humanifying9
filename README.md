@@ -65,5 +65,3 @@ Also: FTC competition robot code (private repos).
 
 Building out the hexapod's tripod gait in simulation, bridging ESP32 servo control over serial, and starting on a reinforcement-learning locomotion policy.
 
-<img src="https://github-readme-stats.vercel.app/api?username=humanifying9&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humanifying9&layout=compact&hide_border=true&theme=default" alt="Top languages" width="48%" />
