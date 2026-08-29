@@ -1,6 +1,6 @@
 <img src="circuit-banner.svg" alt="" width="100%" />
 
-# Tia Parekh
+
 
 <img src="tagline-panel.svg" alt="i build cool stuff. CAD, circuits, and code for real robots" width="100%" />
 
