@@ -6,21 +6,48 @@
 
 <img src="header-projects.svg" alt="Featured Projects" width="100%" />
 
-[![Hexapod Robot](https://img.shields.io/badge/Hexapod_Robot-21262d?style=for-the-badge&logo=ros&logoColor=79A47E)](https://github.com/humanifying9/hexapod-sim)
+<table>
+<tr>
+<td align="center" width="56"><img src="https://cdn.simpleicons.org/ros/79A47E" width="26" height="26" alt=""/></td>
+<td>
+
+**[Hexapod Robot](https://github.com/humanifying9/hexapod-sim)**
 Autonomous 6-legged robot: 18-servo tripod gait, inverse kinematics, Gazebo simulation, camera-based object detection, and a voice I/O pipeline.
 `ROS2` `Gazebo` `Python` `OpenCV`
 
-[![Hexapod Firmware](https://img.shields.io/badge/Hexapod_Firmware-21262d?style=for-the-badge&logo=platformio&logoColor=79A47E)](https://github.com/humanifying9/hexapod-esp)
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/platformio/79A47E" width="26" height="26" alt=""/></td>
+<td>
+
+**[Hexapod Firmware](https://github.com/humanifying9/hexapod-esp)**
 ESP32 firmware driving the hexapod's 18 servos over PCA9685 PWM drivers, with a JSON serial command protocol.
 `C++` `PlatformIO`
 
-[![Outreach Agent](https://img.shields.io/badge/Outreach_Agent-21262d?style=for-the-badge&logo=python&logoColor=79A47E)](https://github.com/humanifying9/outreach_agent)
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/python/79A47E" width="26" height="26" alt=""/></td>
+<td>
+
+**[Outreach Agent](https://github.com/humanifying9/outreach_agent)**
 Multi-agent tool that researches organizations and drafts personalized outreach emails from a resume/CV.
 `Python`
 
-![Produce Sorter](https://img.shields.io/badge/Produce_Sorter-21262d?style=for-the-badge&logo=tensorflow&logoColor=79A47E)
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/tensorflow/79A47E" width="26" height="26" alt=""/></td>
+<td>
+
+**Produce Sorter** *(not yet on GitHub)*
 CNN trained on 500+ images to sort produce at 88% accuracy — 2nd place, Alameda County Science Fair.
 `Python` `OpenCV` `TensorFlow`
+
+</td>
+</tr>
+</table>
 
 Also: FTC competition robot code (private repos).
 
