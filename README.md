@@ -5,7 +5,7 @@
 [LinkedIn](https://linkedin.com/in/tia-parekh-909) · [tiaparekh9@gmail.com](mailto:tiaparekh9@gmail.com)
 
 <img src="header-projects.svg" alt="Featured Projects" width="100%" />
-
+<br>
 <table>
 <tr>
 <td align="center" width="56"><img src="https://cdn.simpleicons.org/ros/79A47E" width="26" height="26" alt=""/></td>
