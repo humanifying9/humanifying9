@@ -16,7 +16,7 @@ Robotics Enthusiast building the interface between humans and machines — hardw
 | [**Outreach Agent**](https://github.com/humanifying9/outreach_agent) | Multi-agent tool that researches organizations and drafts personalized outreach emails from a resume/CV | Python |
 
 **Not yet on GitHub, but worth knowing about:**
-- **Firefighter Tool Carrier** — designed and prototyped during a research program at UT Austin; pitched to the local fire department (CAD in Fusion 360, circuits in KiCad)
+
 - **Produce Sorter** — CNN trained on 500+ images to sort produce at 88% accuracy; placed 2nd at the Alameda County Science Fair (Python, OpenCV, TensorFlow)
 - Also FTC competition robot code
 
