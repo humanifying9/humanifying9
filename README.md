@@ -30,31 +30,31 @@ Also: FTC competition robot code (private repos).
 
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/python/8b949e" width="30" height="30" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/cplusplus/8b949e" width="30" height="30" alt="C++"/><br/><sub>C++</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/openjdk/8b949e" width="30" height="30" alt="Java"/><br/><sub>Java</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/8b949e" width="30" height="30" alt="HTML/CSS"/><br/><sub>HTML/CSS</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/latex/8b949e" width="30" height="30" alt="LaTeX"/><br/><sub>LaTeX</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/python/79A47E" width="30" height="30" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/cplusplus/79A47E" width="30" height="30" alt="C++"/><br/><sub>C++</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/openjdk/79A47E" width="30" height="30" alt="Java"/><br/><sub>Java</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/79A47E" width="30" height="30" alt="HTML/CSS"/><br/><sub>HTML/CSS</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/latex/79A47E" width="30" height="30" alt="LaTeX"/><br/><sub>LaTeX</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/react/8b949e" width="30" height="30" alt="React"/><br/><sub>React</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/8b949e" width="30" height="30" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/git/8b949e" width="30" height="30" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/platformio/8b949e" width="30" height="30" alt="PlatformIO"/><br/><sub>PlatformIO</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/ros/8b949e" width="30" height="30" alt="ROS2"/><br/><sub>ROS2</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/react/79A47E" width="30" height="30" alt="React"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/79A47E" width="30" height="30" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/79A47E" width="30" height="30" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/platformio/79A47E" width="30" height="30" alt="PlatformIO"/><br/><sub>PlatformIO</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/ros/79A47E" width="30" height="30" alt="ROS2"/><br/><sub>ROS2</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/arduino/8b949e" width="30" height="30" alt="Arduino"/><br/><sub>Arduino</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/raspberrypi/8b949e" width="30" height="30" alt="Raspberry Pi"/><br/><sub>Raspberry Pi</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/kicad/8b949e" width="30" height="30" alt="KiCad"/><br/><sub>KiCad</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/opencv/8b949e" width="30" height="30" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/tensorflow/8b949e" width="30" height="30" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/arduino/79A47E" width="30" height="30" alt="Arduino"/><br/><sub>Arduino</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/raspberrypi/79A47E" width="30" height="30" alt="Raspberry Pi"/><br/><sub>Raspberry Pi</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kicad/79A47E" width="30" height="30" alt="KiCad"/><br/><sub>KiCad</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/opencv/79A47E" width="30" height="30" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/tensorflow/79A47E" width="30" height="30" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/autodesk/8b949e" width="30" height="30" alt="Fusion 360"/><br/><sub>Fusion 360</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/bambulab/8b949e" width="30" height="30" alt="BambuLab"/><br/><sub>BambuLab</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/googlecolab/8b949e" width="30" height="30" alt="Google Colab"/><br/><sub>Colab</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/replit/8b949e" width="30" height="30" alt="Replit"/><br/><sub>Replit</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/autodesk/79A47E" width="30" height="30" alt="Fusion 360"/><br/><sub>Fusion 360</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/bambulab/79A47E" width="30" height="30" alt="BambuLab"/><br/><sub>BambuLab</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlecolab/79A47E" width="30" height="30" alt="Google Colab"/><br/><sub>Colab</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/replit/79A47E" width="30" height="30" alt="Replit"/><br/><sub>Replit</sub></td>
 <td></td>
 </tr>
 </table>
